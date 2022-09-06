@@ -66,5 +66,7 @@ pip install mtcnn
 ###### Establecemos los siguientes parametros.
 > ![image](https://user-images.githubusercontent.com/74798975/188527104-314fc4c4-8c36-402a-9ba2-8e6dcbc37bfa.png)
 > ![image](https://user-images.githubusercontent.com/74798975/188527118-dee52e47-7544-4710-801e-90310e114458.png)
+###### Ahora establecemos las funciones que utilizaremos.
+![image](https://user-images.githubusercontent.com/74798975/188529132-3083bbde-ea4e-4b03-aeba-f8b88fc0cb25.png)
 
 
