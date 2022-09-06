@@ -4,7 +4,11 @@
 ## Registro e inicio de sesión con reconocimiento facial
 
 
-## 1.- Instalación e importación de librerias
+## 1.- Primemra apertura, instalación e importación de librerias
+
+> Directorio base del proyecto
+
+![image](https://user-images.githubusercontent.com/74626067/188532637-2336ca79-2b4a-490c-a2f2-53fbf3f58068.png)
 
 > A continuación, se enlistan todas las librerias necesarias para la ejecución del presente proyecto
 ```
