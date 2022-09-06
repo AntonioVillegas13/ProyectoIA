@@ -24,6 +24,10 @@ pip install matplotlib
 ###### Creacion de las ventanas:
 > ![image](https://user-images.githubusercontent.com/74798975/188522590-7b3f044d-eb8d-4c2c-b026-4000ae186016.png)
 
+###### Comando para la ejecución del proyecto:
+![image](https://user-images.githubusercontent.com/74626067/188531113-97d86bea-49a5-4700-9a0d-cfa4f070e234.png)
+
+
 ## 3.- Funcionamiento
 
 ###### Paginas disponibles
