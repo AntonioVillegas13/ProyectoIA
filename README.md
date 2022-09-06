@@ -50,5 +50,8 @@ pip install mtcnn
 > ![image](https://user-images.githubusercontent.com/74798975/188525389-247aac05-f95a-4fca-8e85-3ed1e56a30e1.png)
 ###### Ingresamos nuestro numero de telefono:
 > ![image](https://user-images.githubusercontent.com/74798975/188525422-3fb73a1a-9086-42d0-a69c-eadf04362e6f.png)
+###### Establecemos los siguientes parametros.
+> ![image](https://user-images.githubusercontent.com/74798975/188527104-314fc4c4-8c36-402a-9ba2-8e6dcbc37bfa.png)
+> ![image](https://user-images.githubusercontent.com/74798975/188527118-dee52e47-7544-4710-801e-90310e114458.png)
 
 
