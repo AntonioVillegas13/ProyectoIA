@@ -85,7 +85,7 @@ pip install matplotlib
 
 
 # Reconocimiento Facial Extra 😎
-Descripcion jejeje xd
+Actividad extra que muestra una funcionalidad de reconocimiento más exacta por medio de recopilación de varios angulos del rostro
 
 ###### Comandos utilizamos para esta parte:
 ```
