@@ -6,7 +6,7 @@
 
 ## 1.- Instalación e importación de librerias
 
-> Acontinuación, se enlistan todas las librerias necesarias para la ejecución del presente proyecto
+> A continuación, se enlistan todas las librerias necesarias para la ejecución del presente proyecto
 ```
 pip install Flask
 pip install notify-py
@@ -25,6 +25,14 @@ pip install matplotlib
 > ![image](https://user-images.githubusercontent.com/74798975/188522590-7b3f044d-eb8d-4c2c-b026-4000ae186016.png)
 
 ## 3.- Funcionamiento
+
+###### Paginas disponibles
+> Tema
+![image](https://user-images.githubusercontent.com/74626067/188528506-7763cbfa-4ded-49eb-bcc5-02b1489550b3.png)
+
+> Herramientas de Elaboración
+![image](https://user-images.githubusercontent.com/74626067/188528615-09c272da-bc8f-4a64-92dd-6168fd92ca44.png)
+
 ###### Prueba de Funcionamiento
 ![image](https://user-images.githubusercontent.com/74626067/188522788-75934d49-bee5-4465-9d04-baff60ccf091.png)
 
