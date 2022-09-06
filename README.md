@@ -36,7 +36,7 @@ pip install matplotlib
 ###### Prueba de Funcionamiento
 ![image](https://user-images.githubusercontent.com/74626067/188522788-75934d49-bee5-4465-9d04-baff60ccf091.png)
 
-###### Acceso aprobado
+###### Registro validado
 
 ![image](https://user-images.githubusercontent.com/74626067/188527626-7c3363a4-18af-49f1-b675-1a7b017908e5.png)
 
