@@ -18,13 +18,14 @@ pip install tk
 pip install os-sys
 pip install matplotlib
 ```
-
+## 2.- Creacion de funciones y ventanas
 ###### Comenzamos con la creacion de las funciones:
 > ![image](https://user-images.githubusercontent.com/74798975/188522559-98fb0f35-b2c5-45ca-839e-bd9fbe2fa7f6.png)
 
 ###### Creacion de las ventanas:
 > ![image](https://user-images.githubusercontent.com/74798975/188522590-7b3f044d-eb8d-4c2c-b026-4000ae186016.png)
 
+## 3.- Funcionamiento
 ## Prueba de Funcionamiento
 ![image](https://user-images.githubusercontent.com/74626067/188522788-75934d49-bee5-4465-9d04-baff60ccf091.png)
 
