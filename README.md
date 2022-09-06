@@ -23,7 +23,7 @@
 ###### Creacion de las ventanas:
 > ![image](https://user-images.githubusercontent.com/74798975/188522590-7b3f044d-eb8d-4c2c-b026-4000ae186016.png)
 
-> ## Prueba de Funcionamiento
+## Prueba de Funcionamiento
 ![image](https://user-images.githubusercontent.com/74626067/188522788-75934d49-bee5-4465-9d04-baff60ccf091.png)
 
 # Reconocimiento Facial Extra 😎
