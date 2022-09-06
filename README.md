@@ -71,8 +71,16 @@ pip install matplotlib
 
 ![image](https://user-images.githubusercontent.com/74626067/188532157-b65cf2d4-924c-4501-be06-f83269d336dd.png)
 
-###### Inicio de sesion exitoso 
+###### Inicio de sesion exitoso
 
+> Validación de rostro
+![image](https://user-images.githubusercontent.com/74626067/188533298-ae6adf3f-4518-4dc3-9569-6fcdafc94880.png)
+
+> Recurso para acceder al perfil
+
+![image](https://user-images.githubusercontent.com/74626067/188533429-2d5e0cce-143d-453d-a31d-be46013a1436.png)
+
+> Acceso al perfil
 ![image](https://user-images.githubusercontent.com/74626067/188527626-7c3363a4-18af-49f1-b675-1a7b017908e5.png)
 
 
