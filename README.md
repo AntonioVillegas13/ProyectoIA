@@ -37,10 +37,37 @@ pip install matplotlib
 > Herramientas de Elaboración
 ![image](https://user-images.githubusercontent.com/74626067/188528615-09c272da-bc8f-4a64-92dd-6168fd92ca44.png)
 
+> Funcionalidad principal
+  
+ ![image](https://user-images.githubusercontent.com/74626067/188531504-c5a1a91f-46ed-4495-944b-9365052c379d.png)
+
+> Apartado extra
+
+![image](https://user-images.githubusercontent.com/74626067/188531569-026f02de-17b5-467a-befd-e1903c44c5d5.png)
+
+
 ###### Prueba de Funcionamiento
+> Opciones disponibles
+
+![image](https://user-images.githubusercontent.com/74626067/188531665-fced25fc-2534-47fc-a72a-6c19d10fd9b3.png)
+
+
+> Opcion de registro
+
+![image](https://user-images.githubusercontent.com/74626067/188531701-ea0de111-ec29-4c09-b3ea-28edc328762b.png)
+
+
+> Prueba de registro
 ![image](https://user-images.githubusercontent.com/74626067/188522788-75934d49-bee5-4465-9d04-baff60ccf091.png)
 
-###### Registro validado
+> Directorio de creación de registro
+![image](https://user-images.githubusercontent.com/74626067/188531888-caf9e7a8-8869-4569-82e2-291db5627cfc.png)
+
+> Inicio de sesion fallido
+
+![image](https://user-images.githubusercontent.com/74626067/188532157-b65cf2d4-924c-4501-be06-f83269d336dd.png)
+
+###### Inicio de sesion exitoso 
 
 ![image](https://user-images.githubusercontent.com/74626067/188527626-7c3363a4-18af-49f1-b675-1a7b017908e5.png)
 
